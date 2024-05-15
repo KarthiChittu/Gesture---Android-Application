@@ -1,1 +1,1 @@
-The App is created on MIT App Inventor using block language. The Images named 1.jpg , 2.jpg , 3.jpg on thi folder are the codes which are used to create the Application. The Interface of the App is also attached on this Repository.
+The App is created on MIT App Inventor using block language. The Images named on this folder are the codes which are used to create the Application. The Interface of the App is also attached on this Repository.
